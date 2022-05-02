@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Jrvmaintenance](https://github.com/JairoSolarteRodriguez/Jrvmaintenance)
 
-- 🌱 I’m currently learning **Python, Django rest framework, JavaScript**
+- 🌱 Actualmente estoy aprendiendo **Python, Django rest framework, JavaScript**
 
 - 👨‍💻 Todos mis proyectos disponibles [https://valentin-dev.netlify.app/](https://valentin-dev.netlify.app/)
 
