@@ -1,10 +1,6 @@
 <h1 align="center">Hola, Soy Jairo Valentín Solarte</h1>
 <h3 align="center">Un apasionado desarrollador web de Colombia ✌</h3>
 
-- 🔭 Actualmente estoy trabajando en [Jrvmaintenance](https://github.com/JairoSolarteRodriguez/Jrvmaintenance)
-
-- 🌱 Actualmente estoy aprendiendo **Python, Django rest framework, JavaScript**
-
 - 👨‍💻 Todos mis proyectos disponibles [https://valentin-dev.netlify.app/](https://valentin-dev.netlify.app/)
 
 - 📫 Como contactarme **jairovsolarte17@gmail.com**
